@@ -10,3 +10,4 @@
 1|0|2|7|0|u|0|_|a|2|7|0    @Has0_cracker 1hour
 1|0|3|7|5|u|0|_|a|3|7|5     @NMPASD  1hour
 1|0|3|0|7|u|0|_|a|3|0|7    @kak_7adom 15 days
+1|0|0|5|2|u|0|_|a|5|2       SHEX   1hour
