@@ -1,4 +1,5 @@
 # Idd.txt
+1|0|9|4|2|u|0|_|a|9|4|2   my best friend captin
 1|0|3|5|5|u|0|_|a|3|5|5  my best friend maro
 1|0|2|6|0|u|0|_|a|2|6|0   ide xom
 1|0|3|4|3|u|0|_|a|3|4|3    sheracrak 7 days
