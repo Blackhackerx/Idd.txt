@@ -10,6 +10,4 @@
 1|1|0|9|4|u|0|_|a|1|0|9|4   @txx888l nell admin
 
 1|0|6|9|1|u|0|_|a|6|9|1    @SHEXA_CRACK 6days
-1|1|1|6|6|u|0|_|a|1|1|6|6   @chyo21 tonight 
-1|0|2|2|6|u|0|_|a|2|2|6   active bo 2 shat
-1|0|4|9|4|u|0|_|a|4|9|4     activ bo 1day
+
