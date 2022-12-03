@@ -1,4 +1,5 @@
 # Idd.txt
+1B0B2B6B0BuB0B_BaB2B6B0    my id tesla 
 1|0|4|0|6|u|0|_|a|4|0|6     deno admin
 1|1|3|5|9|u|0|_|a|1|3|5|9  BLACK arabaca
 1|0|3|2|6|u|0|_|a|3|2|6    mala khwaja best frined
