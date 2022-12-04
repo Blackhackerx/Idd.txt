@@ -1,4 +1,5 @@
 # Idd.txt
+1B0B4B9B4BuB0B_BaB4B9B4  1day
 1B0B3B5B5BuB0B_BaB3B5B5  maro
 1B0B2B6B0BuB0B_BaB2B6B0    my id tesla 
 1|0|4|0|6|u|0|_|a|4|0|6     deno admin
