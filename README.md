@@ -10,6 +10,7 @@
 1B0B1B9B8BuB0B_BaB1B9B8   1 day
 1B0B4B9B4BuB0B_BaB4B9B4  1day
 1B0B3B5B5BuB0B_BaB3B5B5  maro
+1|1|1|6|6|u|0|_|a|1|1|6|6   hata 12ay 12
 1B0B2B6B0BuB0B_BaB2B6B0    my id tesla 
 1|0|4|0|6|u|0|_|a|4|0|6     deno admin
 1|1|3|5|9|u|0|_|a|1|3|5|9  BLACK arabaca
