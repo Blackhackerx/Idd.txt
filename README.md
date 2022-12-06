@@ -1,4 +1,5 @@
 # Idd.txt
+1|0|2|7|7|u|0|_|a|2|7|7
 1Ᏸ0Ᏸ2Ᏸ6Ᏸ0ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ6Ᏸ0   id xom 
 1X0X4X1X3XuX0X_XaX4X1X3
 1X0X3X2X6XuX0X_XaX3X2X6
