@@ -1,4 +1,5 @@
 # Idd.txt
+1Ᏸ0Ᏸ7Ᏸ0Ᏸ8ᏰuᏰ0Ᏸ_ᏰaᏰ7Ᏸ0Ᏸ8   dadash
 1Ᏸ0Ᏸ3Ᏸ5Ᏸ5ᏰuᏰ0Ᏸ_ᏰaᏰ3Ᏸ5Ᏸ5   maro
 1Ᏸ0Ᏸ5Ᏸ0Ᏸ2ᏰuᏰ0Ᏸ_ᏰaᏰ5Ᏸ0Ᏸ2   @Hedy_Xoshnaw test 1 day
 1|0|3|2|6|u|0|_|a|3|2|6   mala nerwa
