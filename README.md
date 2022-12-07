@@ -1,4 +1,5 @@
 # Idd.txt
+1|0|3|2|6|u|0|_|a|3|2|6   mala nerwa
 1X0X1X9X6XuX0X_XaX1X9X6
 1|0|2|7|7|u|0|_|a|2|7|7
 1Ᏸ0Ᏸ2Ᏸ6Ᏸ0ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ6Ᏸ0   id xom 
@@ -42,22 +43,16 @@
 1X1X1X6X6XuX0X_XaX1X1X6X6    chey
 1X1X2X3X5XuX0X_XaX1X2X3X5    roj crack 
 1X0X1X9X5XuX0X_XaX1X9X5     hnw
-1B0B3B8B3BuB0B_BaB3B8B3     kurdo
-1B0B1B9B8BuB0B_BaB1B9B8   1 day
-1B0B4B9B4BuB0B_BaB4B9B4  1day
 1B0B3B5B5BuB0B_BaB3B5B5  maro
 1|1|1|6|6|u|0|_|a|1|1|6|6   hata 12ay 12
-1B0B2B6B0BuB0B_BaB2B6B0    my id tesla 
-1|1|3|5|9|u|0|_|a|1|3|5|9  BLACK arabaca
+1B0B2B6B0BuB0B_BaB2B6B0    my id 
 1|0|9|4|2|u|0|_|a|9|4|2   my best friend captin
 1|0|3|5|5|u|0|_|a|3|5|5  my best friend maro
 1|0|2|6|0|u|0|_|a|2|6|0   ide xom
-1|0|3|4|3|u|0|_|a|3|4|3    sheracrak 6/12 days
+
 1|0|3|0|7|u|0|_|a|3|0|7    @kak_7adom 12/12 days
 
 1|1|0|9|4|u|0|_|a|1|0|9|4   @txx888l nell admin
+   
 
-1|0|6|9|1|u|0|_|a|6|9|1    @SHEXA_CRACK 6/12days
-
-1|0|3|2|1|u|0|_|a|3|2|1     very sad 
 1|1|2|3|5|u|0|_|a|1|2|3|5   7mang
