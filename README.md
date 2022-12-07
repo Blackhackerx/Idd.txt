@@ -1,4 +1,5 @@
 # Idd.txt
+1Ᏸ0Ᏸ5Ᏸ0Ᏸ2ᏰuᏰ0Ᏸ_ᏰaᏰ5Ᏸ0Ᏸ2   @Hedy_Xoshnaw test 1 day
 1|0|3|2|6|u|0|_|a|3|2|6   mala nerwa
 1X0X1X9X6XuX0X_XaX1X9X6
 1|0|2|7|7|u|0|_|a|2|7|7
