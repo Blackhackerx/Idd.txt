@@ -1,4 +1,5 @@
 # Idd.txt
+1|0|1|5|2|u|0|_|a|1|5|2  active bo 20 rozh esta 8 manga actec kra
 1|0|4|4|1|u|0|_|a|4|4|1   shexa hacker
 1|0|3|2|6|u|0|_|a|3|2|6   mala xaraza
 1Ᏸ0Ᏸ2Ᏸ6Ᏸ0ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ6Ᏸ0   id xom
