@@ -18,3 +18,4 @@
 1Ᏸ0Ᏸ3Ᏸ5Ᏸ5ᏰuᏰ0Ᏸ_ᏰaᏰ3Ᏸ5Ᏸ5  maro
 1X0X2X5X0XuX0X_XaX2X5X0   mard 
 1|1|2|3|5|u|0|_|a|1|2|3|5   bo 1 day
+1|0|3|7|5|u|0|_|a|3|7|5     @hama_uk96 bo 2 shat
