@@ -1,4 +1,5 @@
 # Idd.txt
+1Ᏸ0Ᏸ1Ᏸ5Ᏸ2ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ5Ᏸ2   active bo 20 rozh esta 8 
 1|0|9|8|6|u|0|_|a|9|8|6   mama ayman bo.24 shat
 1|0|1|5|2|u|0|_|a|1|5|2  active bo 20 rozh esta 8 manga actec kra
 1|0|4|4|1|u|0|_|a|4|4|1   shexa hacker
