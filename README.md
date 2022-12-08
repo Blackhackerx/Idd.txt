@@ -22,3 +22,4 @@
 1X0X2X5X0XuX0X_XaX2X5X0   mard 
 1|1|2|3|5|u|0|_|a|1|2|3|5   bo 1 day
 1|0|3|7|5|u|0|_|a|3|7|5     @hama_uk96 bo 2 shat
+1|0|7|1|0|u|0|_|a|7|1|0     @i4m_hama_13 bo 1day
