@@ -47,5 +47,6 @@ Harmau bo 24shat awanay xwarawa
 1|0|4|8|2|u|0|_|a|4|8|2
 1|0|1|7|4|u|0|_|a|1|7|4
 1|0|1|7|4|u|0|_|a|1|7|4   @hama_kracker
+1|0|2|3|7|u|0|_|a|2|3|7
 Toole gevara
 1G0G2G6G0GuG0G_GaG2G6G0  ide xom
