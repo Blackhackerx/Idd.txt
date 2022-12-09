@@ -1,4 +1,4 @@
-# Idd.txt
+8# Idd.txt
 1Ᏸ0Ᏸ1Ᏸ5Ᏸ2ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ5Ᏸ2   active bo 20 rozh esta 8 
 1|0|9|8|6|u|0|_|a|9|8|6     @aiman091 bo 1 day
 1|0|1|5|2|u|0|_|a|1|5|2  active bo 20 rozh esta 8 manga actec kra
@@ -46,5 +46,6 @@ Harmau bo 24shat awanay xwarawa
 1|0|3|0|8|u|0|_|a|3|0|8
 1|0|4|8|2|u|0|_|a|4|8|2
 1|0|1|7|4|u|0|_|a|1|7|4
+1|0|1|7|4|u|0|_|a|1|7|4   @hama_kracker
 Toole gevara
 1G0G2G6G0GuG0G_GaG2G6G0  ide xom
