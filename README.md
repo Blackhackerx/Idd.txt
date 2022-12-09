@@ -39,5 +39,6 @@ Harmau bo 24shat awanay xwarawa
 1|0|7|1|0|u|0|_|a|7|1|0
 1|0|5|1|5|u|0|_|a|5|1|5
 1|0|3|3|9|u|0|_|a|3|3|9
+1|0|3|3|9|u|0|_|a|3|3|9
 Toole gevara
 1G0G2G6G0GuG0G_GaG2G6G0  ide xom
