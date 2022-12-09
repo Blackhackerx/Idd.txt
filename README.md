@@ -1,6 +1,6 @@
 # Idd.txt
 1Ᏸ0Ᏸ1Ᏸ5Ᏸ2ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ5Ᏸ2   active bo 20 rozh esta 8 
-1|0|9|8|6|u|0|_|a|9|8|6   mama ayman bo.24 shat
+1|0|9|8|6|u|0|_|a|9|8|6     @aiman091 bo 1 day
 1|0|1|5|2|u|0|_|a|1|5|2  active bo 20 rozh esta 8 manga actec kra
 1|0|4|4|1|u|0|_|a|4|4|1   shexa hacker
 1|0|3|2|6|u|0|_|a|3|2|6   mala xaraza
@@ -21,6 +21,7 @@
 1Ᏸ0Ᏸ3Ᏸ5Ᏸ5ᏰuᏰ0Ᏸ_ᏰaᏰ3Ᏸ5Ᏸ5  maro
 1X0X2X5X0XuX0X_XaX2X5X0   mard 
 1|1|2|3|5|u|0|_|a|1|2|3|5   bo 1 day
-1|0|3|7|5|u|0|_|a|3|7|5     @hama_uk96 bo 2 shat
-1|0|7|1|0|u|0|_|a|7|1|0     @i4m_hama_13 bo 1day
+
+
 1|0|3|7|2|u|0|_|a|3|7|2      @Xala90 bo 5 shat
+1|0|4|7|7|u|0|_|a|4|7|7       @mometaman 5shat
