@@ -1,4 +1,5 @@
 8# Idd.txt
+1|0|2|9|0|u|0|_|a|2|9|0 hata 10/1 30 rozh
 1Ᏸ0Ᏸ1Ᏸ5Ᏸ2ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ5Ᏸ2   active bo 20 rozh esta 8 
 
 1|0|1|5|2|u|0|_|a|1|5|2  active bo 20 rozh esta 8 manga actec kra
