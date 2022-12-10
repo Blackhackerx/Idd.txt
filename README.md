@@ -8,7 +8,7 @@
 1|0|3|2|6|u|0|_|a|3|2|6   mala xaraza
 1Ᏸ0Ᏸ2Ᏸ6Ᏸ0ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ6Ᏸ0   id xom
 1X0X2X6X0XuX0X_XaX2X6X0     ide xom
-
+1X0X1X9X5XuX0X_XaX1X9X5  bon1 day
 1B0B3B5B5BuB0B_BaB3B5B5  maro
 1|1|1|6|6|u|0|_|a|1|1|6|6   hata 12ay 12
 1B0B2B6B0BuB0B_BaB2B6B0    my id 
@@ -64,6 +64,6 @@ V2 bo 2 days bo hamuan ba freeya
 1ᗽ0ᗽ3ᗽ5ᗽ6ᗽuᗽ0ᗽ_ᗽaᗽ3ᗽ5ᗽ6
 1ᗽ0ᗽ1ᗽ5ᗽ2ᗽuᗽ0ᗽ_ᗽaᗽ1ᗽ5ᗽ2
 1ᗽ0ᗽ4ᗽ8ᗽ4ᗽuᗽ0ᗽ_ᗽaᗽ4ᗽ8ᗽ4
-
+1ᗽ0ᗽ3ᗽ3ᗽ9ᗽuᗽ0ᗽ_ᗽaᗽ3ᗽ3ᗽ9
 
 
