@@ -23,3 +23,4 @@
 
 1G0G2G6G0GuG0G_GaG2G6G0  ide xom
 1|0|1|7|4|u|0|_|a|1|7|4  bo 1 day 
+1|0|1|9|8|u|0|_|a|1|9|8  bi 1 day
