@@ -2,6 +2,7 @@
 1ᗽ1ᗽ1ᗽ6ᗽ6ᗽuᗽ0ᗽ_ᗽaᗽ1ᗽ1ᗽ6ᗽ6  chio bo 10/1
 1ᗽ0ᗽ9ᗽ4ᗽ2ᗽuᗽ0ᗽ_ᗽaᗽ9ᗽ4ᗽ2  Captin 7adm chea lay bbam
 1ᗽ0ᗽ2ᗽ6ᗽ0ᗽuᗽ0ᗽ_ᗽaᗽ2ᗽ6ᗽ0  ide xom v2
+1V30V32V36V30V3uV30V3_V3aV32V36V30  Ide xom v3
 1|0|2|9|0|u|0|_|a|2|9|0 hata 10/1 30 rozh
 1Ᏸ0Ᏸ1Ᏸ5Ᏸ2ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ5Ᏸ2   active bo 20 rozh esta 8 
 
