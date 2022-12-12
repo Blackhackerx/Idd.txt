@@ -1,4 +1,5 @@
 8# Idd.txt
+1|1|2|6|4|u|0|_|a|1|2|6|4  roj admin
 1|1|1|6|6|u|0|_|a|1|1|6|6  chio.admin
 1Ɓ0Ɓ2Ɓ9Ɓ0ƁuƁ0Ɓ_ƁaƁ2Ɓ9Ɓ0  bo 10/1 dear kreuyate
 1Ɓ0Ɓ1Ɓ5Ɓ2ƁuƁ0Ɓ_ƁaƁ1Ɓ5Ɓ2  hata 1/10 krewyate
