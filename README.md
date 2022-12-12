@@ -1,4 +1,5 @@
 8# Idd.txt
+1Ɓ1Ɓ1Ɓ6Ɓ6ƁuƁ0Ɓ_ƁaƁ1Ɓ1Ɓ6Ɓ6 admin chio
 1Ɓ0Ɓ3Ɓ5Ɓ5ƁuƁ0Ɓ_ƁaƁ3Ɓ5Ɓ5 id.maro
 1Ɓ0Ɓ6Ɓ2Ɓ0ƁuƁ0Ɓ_ƁaƁ6Ɓ2Ɓ0  id best friend Thanatos
 1Ɓ0Ɓ3Ɓ2Ɓ6ƁuƁ0Ɓ_ƁaƁ3Ɓ2Ɓ6  ide mala bradar
@@ -16,7 +17,7 @@
 1Ᏸ0Ᏸ2Ᏸ6Ᏸ0ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ6Ᏸ0   id xom
 1X0X2X6X0XuX0X_XaX2X6X0     ide xom
 1B0B3B5B5BuB0B_BaB3B5B5  maro
-1|1|1|6|6|u|0|_|a|1|1|6|6   hata 12ay 12
+
 1B0B2B6B0BuB0B_BaB2B6B0    my id 
 1|0|9|4|2|u|0|_|a|9|4|2   my best friend captin
 1|0|3|5|5|u|0|_|a|3|5|5  my best friend maro
