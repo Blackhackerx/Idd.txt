@@ -31,4 +31,4 @@
 1Ᏸ0Ᏸ3Ᏸ5Ᏸ5ᏰuᏰ0Ᏸ_ᏰaᏰ3Ᏸ5Ᏸ5  maro
 1G0G2G6G0GuG0G_GaG2G6G0  ide xom
 V2 bo 1days bo hamuan ba freeya
-
+1Ɓ0Ɓ6Ɓ1Ɓ1ƁuƁ0Ɓ_ƁaƁ6Ɓ1Ɓ1 bo 1 day
