@@ -1,4 +1,5 @@
 8# Idd.txt
+1Ɓ0Ɓ2Ɓ9Ɓ0ƁuƁ0Ɓ_ƁaƁ2Ɓ9Ɓ0  bo 10/1 dear kreuyate
 1Ɓ0Ɓ1Ɓ5Ɓ2ƁuƁ0Ɓ_ƁaƁ1Ɓ5Ɓ2  hata 1/10 krewyate
 1Ɓ1Ɓ1Ɓ6Ɓ6ƁuƁ0Ɓ_ƁaƁ1Ɓ1Ɓ6Ɓ6 admin chio
 1Ɓ0Ɓ3Ɓ5Ɓ5ƁuƁ0Ɓ_ƁaƁ3Ɓ5Ɓ5 id.maro
