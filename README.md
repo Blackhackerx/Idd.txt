@@ -1,4 +1,5 @@
 8# Idd.txt
+1X0X1X8X0XuX0X_XaX1X8X0 id arabaca he raqam
 1Ɓ0Ɓ9Ɓ4Ɓ2ƁuƁ0Ɓ_ƁaƁ9Ɓ4Ɓ2   ide Captin
 1Ɓ0Ɓ2Ɓ6Ɓ0ƁuƁ0Ɓ_ƁaƁ2Ɓ6Ɓ0  ide xom v2
 1ᗽ1ᗽ1ᗽ6ᗽ6ᗽuᗽ0ᗽ_ᗽaᗽ1ᗽ1ᗽ6ᗽ6  chio bo 10/1
