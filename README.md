@@ -1,4 +1,5 @@
 8# Idd.txt
+1Ɓ0Ɓ3Ɓ5Ɓ5ƁuƁ0Ɓ_ƁaƁ3Ɓ5Ɓ5 id.maro
 1Ɓ0Ɓ6Ɓ2Ɓ0ƁuƁ0Ɓ_ƁaƁ6Ɓ2Ɓ0  id best friend Thanatos
 1Ɓ0Ɓ3Ɓ2Ɓ6ƁuƁ0Ɓ_ƁaƁ3Ɓ2Ɓ6  ide mala bradar
 1X0X1X8X0XuX0X_XaX1X8X0 id arabaca he raqam
