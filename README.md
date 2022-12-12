@@ -1,4 +1,5 @@
 8# Idd.txt
+1Ɓ0Ɓ3Ɓ2Ɓ6ƁuƁ0Ɓ_ƁaƁ3Ɓ2Ɓ6  ide mala bradar
 1X0X1X8X0XuX0X_XaX1X8X0 id arabaca he raqam
 1Ɓ0Ɓ9Ɓ4Ɓ2ƁuƁ0Ɓ_ƁaƁ9Ɓ4Ɓ2   ide Captin
 1Ɓ0Ɓ2Ɓ6Ɓ0ƁuƁ0Ɓ_ƁaƁ2Ɓ6Ɓ0  ide xom v2
