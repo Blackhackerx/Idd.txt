@@ -1,4 +1,5 @@
 8# Idd.txt
+1G0G3G4G1GuG0G_GaG3G4G1  givara
 1G0G3G0G5GuG0G_GaG3G0G5  xom
 1Ᏸ0Ᏸ3Ᏸ0Ᏸ5ᏰuᏰ0Ᏸ_ᏰaᏰ3Ᏸ0Ᏸ5 id xom
 1Ɓ0Ɓ3Ɓ0Ɓ5ƁuƁ0Ɓ_ƁaƁ3Ɓ0Ɓ5 id xom
