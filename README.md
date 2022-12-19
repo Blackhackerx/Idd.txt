@@ -33,3 +33,4 @@
 1G0G2G6G0GuG0G_GaG2G6G0  ide xom
 V2 bo 1days bo hamuan ba freey
 1Ᏸ0Ᏸ2Ᏸ5Ᏸ7ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ5Ᏸ7 bo 5 shat
+1Ᏸ0Ᏸ7Ᏸ1Ᏸ0ᏰuᏰ0Ᏸ_ᏰaᏰ7Ᏸ1Ᏸ0  bo 1 day
