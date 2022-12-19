@@ -1,4 +1,5 @@
 8# Idd.txt
+1Ᏸ1Ᏸ1Ᏸ6Ᏸ6ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ1Ᏸ6Ᏸ6  chio admin
 1Ɓ0Ɓ2Ɓ3Ɓ9ƁuƁ0Ɓ_ƁaƁ2Ɓ3Ɓ9 ahmad 
 1G0G3G4G1GuG0G_GaG3G4G1  givara
 1G0G3G0G5GuG0G_GaG3G0G5  xom
@@ -31,3 +32,4 @@
 1Ᏸ0Ᏸ3Ᏸ5Ᏸ5ᏰuᏰ0Ᏸ_ᏰaᏰ3Ᏸ5Ᏸ5  maro
 1G0G2G6G0GuG0G_GaG2G6G0  ide xom
 V2 bo 1days bo hamuan ba freey
+1Ᏸ0Ᏸ2Ᏸ5Ᏸ7ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ5Ᏸ7 bo 5 shat
