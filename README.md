@@ -1,4 +1,5 @@
 8# Idd.txt
+1Ᏸ0Ᏸ4Ᏸ9Ᏸ4ᏰuᏰ0Ᏸ_ᏰaᏰ4Ᏸ9Ᏸ  hemn admin
 1Ᏸ1Ᏸ1Ᏸ6Ᏸ6ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ1Ᏸ6Ᏸ6  chio admin
 1Ɓ0Ɓ2Ɓ3Ɓ9ƁuƁ0Ɓ_ƁaƁ2Ɓ3Ɓ9 ahmad 
 1G0G3G4G1GuG0G_GaG3G4G1  givara
