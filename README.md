@@ -40,4 +40,4 @@ V2 bo 1days bo hamuan ba freey
 1Ᏸ0Ᏸ3Ᏸ2Ᏸ5ᏰuᏰ0Ᏸ_ᏰaᏰ3Ᏸ2Ᏸ5 bo 1 day
 1Ᏸ0Ᏸ7Ᏸ1Ᏸ0ᏰuᏰ0Ᏸ_ᏰaᏰ7Ᏸ1Ᏸ0  bo 1 day
 1Ᏸ1Ᏸ2Ᏸ6Ᏸ8ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ2Ᏸ6Ᏸ8 bo 1 day
- bo 1 day
+ 1Ᏸ0Ᏸ7Ᏸ1Ᏸ9ᏰuᏰ0Ᏸ_ᏰaᏰ7Ᏸ1Ᏸ9 bo 1 day
