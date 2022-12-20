@@ -1,4 +1,5 @@
 8# Idd.txt
+1Ᏸ0Ᏸ1Ᏸ5Ᏸ9ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ5Ᏸ9 bad boy 
 1Ᏸ0Ᏸ2Ᏸ2Ᏸ9ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ2Ᏸ9 bo 1 day tesr kurdo
 1Ᏸ0Ᏸ1Ᏸ9Ᏸ6ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ9Ᏸ6  admin deno
 1Ᏸ0Ᏸ4Ᏸ9Ᏸ4ᏰuᏰ0Ᏸ_ᏰaᏰ4Ᏸ9Ᏸ  hemn admin
