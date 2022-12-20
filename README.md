@@ -1,4 +1,5 @@
 8# Idd.txt
+1Ᏸ0Ᏸ1Ᏸ9Ᏸ6ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ9Ᏸ6  admin deno
 1Ᏸ0Ᏸ4Ᏸ9Ᏸ4ᏰuᏰ0Ᏸ_ᏰaᏰ4Ᏸ9Ᏸ  hemn admin
 1Ᏸ1Ᏸ1Ᏸ6Ᏸ6ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ1Ᏸ6Ᏸ6  chio admin
 1Ɓ0Ɓ2Ɓ3Ɓ9ƁuƁ0Ɓ_ƁaƁ2Ɓ3Ɓ9 ahmad 
@@ -7,7 +8,7 @@
 1Ᏸ0Ᏸ3Ᏸ0Ᏸ5ᏰuᏰ0Ᏸ_ᏰaᏰ3Ᏸ0Ᏸ5 id xom
 1Ɓ0Ɓ3Ɓ0Ɓ5ƁuƁ0Ɓ_ƁaƁ3Ɓ0Ɓ5 id xom
 1Ɓ1Ɓ2Ɓ6Ɓ5ƁuƁ0Ɓ_ƁaƁ1Ɓ2Ɓ6Ɓ5  admin
-1Ɓ0Ɓ3Ɓ9Ɓ5ƁuƁ0Ɓ_ƁaƁ3Ɓ9Ɓ5     bo 1 day
+
 
 1Ɓ0Ɓ2Ɓ9Ɓ0ƁuƁ0Ɓ_ƁaƁ2Ɓ9Ɓ0  bo 10/1 dear kreuyate
 1Ɓ0Ɓ1Ɓ5Ɓ2ƁuƁ0Ɓ_ƁaƁ1Ɓ5Ɓ2 
@@ -34,5 +35,5 @@
 1Ᏸ0Ᏸ3Ᏸ5Ᏸ5ᏰuᏰ0Ᏸ_ᏰaᏰ3Ᏸ5Ᏸ5  maro
 1G0G2G6G0GuG0G_GaG2G6G0  ide xom
 V2 bo 1days bo hamuan ba freey
-1Ᏸ0Ᏸ2Ᏸ5Ᏸ7ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ5Ᏸ7 bo 5 shat
+1Ᏸ0Ᏸ3Ᏸ2Ᏸ5ᏰuᏰ0Ᏸ_ᏰaᏰ3Ᏸ2Ᏸ5 bo 1 day
 1Ᏸ0Ᏸ7Ᏸ1Ᏸ0ᏰuᏰ0Ᏸ_ᏰaᏰ7Ᏸ1Ᏸ0  bo 1 day
