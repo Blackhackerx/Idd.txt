@@ -42,3 +42,4 @@
 1G0G2G6G0GuG0G_GaG2G6G0  ide xom
 V2 bo 1days bo hamuan ba freey
 1Ᏸ0Ᏸ3Ᏸ2Ᏸ5ᏰuᏰ0Ᏸ_ᏰaᏰ3Ᏸ2Ᏸ5  @S_1_2_1_2 bo 2 day
+1Ᏸ0Ᏸ7Ᏸ1Ᏸ9ᏰuᏰ0Ᏸ_ᏰaᏰ7Ᏸ1Ᏸ9 print hama bo 1 day
