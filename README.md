@@ -1,4 +1,5 @@
 8# Idd.txt
+1Ᏸ0Ᏸ2Ᏸ4Ᏸ6ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ4Ᏸ6  maro.admin
 1Ᏸ0Ᏸ3Ᏸ4Ᏸ6ᏰuᏰ0Ᏸ_ᏰaᏰ3Ᏸ4Ᏸ6  admin shera
 1Ᏸ0Ᏸ2Ᏸ4Ᏸ9ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ4Ᏸ9 black arabaka
 1Ᏸ0Ᏸ6Ᏸ2Ᏸ0ᏰuᏰ0Ᏸ_ᏰaᏰ6Ᏸ2Ᏸ0 thanatos admin
