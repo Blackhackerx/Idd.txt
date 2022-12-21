@@ -1,4 +1,5 @@
 8# Idd.txt
+1Ᏸ0Ᏸ6Ᏸ2Ᏸ0ᏰuᏰ0Ᏸ_ᏰaᏰ6Ᏸ2Ᏸ0 thanatos admin
 1Ᏸ1Ᏸ6Ᏸ9Ᏸ5ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ6Ᏸ9Ᏸ5 ahmad nerawa xaraza
 1Ᏸ0Ᏸ1Ᏸ5Ᏸ9ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ5Ᏸ9 bad boy 
 1Ᏸ0Ᏸ2Ᏸ2Ᏸ9ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ2Ᏸ9 bo 1 day tesr kurdo
