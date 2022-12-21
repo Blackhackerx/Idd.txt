@@ -1,7 +1,8 @@
 8# Idd.txt
+1Ᏸ0Ᏸ2Ᏸ4Ᏸ9ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ4Ᏸ9 black arabaka
 1Ᏸ0Ᏸ6Ᏸ2Ᏸ0ᏰuᏰ0Ᏸ_ᏰaᏰ6Ᏸ2Ᏸ0 thanatos admin
 1Ᏸ1Ᏸ6Ᏸ9Ᏸ5ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ6Ᏸ9Ᏸ5 ahmad nerawa xaraza
-1Ᏸ0Ᏸ1Ᏸ5Ᏸ9ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ5Ᏸ9 bad boy 
+
 1Ᏸ0Ᏸ2Ᏸ2Ᏸ9ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ2Ᏸ9 bo 1 day tesr kurdo
 1Ᏸ0Ᏸ1Ᏸ9Ᏸ6ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ9Ᏸ6  admin deno
 1Ᏸ0Ᏸ4Ᏸ9Ᏸ4ᏰuᏰ0Ᏸ_ᏰaᏰ4Ᏸ9Ᏸ  hemn admin
@@ -39,8 +40,4 @@
 1Ᏸ0Ᏸ3Ᏸ5Ᏸ5ᏰuᏰ0Ᏸ_ᏰaᏰ3Ᏸ5Ᏸ5  maro
 1G0G2G6G0GuG0G_GaG2G6G0  ide xom
 V2 bo 1days bo hamuan ba freey
-1Ᏸ0Ᏸ3Ᏸ2Ᏸ5ᏰuᏰ0Ᏸ_ᏰaᏰ3Ᏸ2Ᏸ5 bo 1 day
-1Ᏸ0Ᏸ7Ᏸ1Ᏸ0ᏰuᏰ0Ᏸ_ᏰaᏰ7Ᏸ1Ᏸ0  bo 1 day
-1Ᏸ1Ᏸ2Ᏸ6Ᏸ8ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ2Ᏸ6Ᏸ8 bo 1 day
- 1Ᏸ0Ᏸ7Ᏸ1Ᏸ9ᏰuᏰ0Ᏸ_ᏰaᏰ7Ᏸ1Ᏸ9 bo 1 day
-1Ᏸ0Ᏸ2Ᏸ7Ᏸ0ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ7Ᏸ0 bo 1 day
+
