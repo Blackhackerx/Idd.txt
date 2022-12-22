@@ -47,3 +47,4 @@
 V2 bo 1days bo hamuan ba freey
 1Ᏸ0Ᏸ3Ᏸ2Ᏸ5ᏰuᏰ0Ᏸ_ᏰaᏰ3Ᏸ2Ᏸ5  @S_1_2_1_2 bo 2 day
 1Ᏸ0Ᏸ7Ᏸ1Ᏸ9ᏰuᏰ0Ᏸ_ᏰaᏰ7Ᏸ1Ᏸ9 print hama bo 1 day
+1Ᏸ0Ᏸ1Ᏸ7Ᏸ8ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ7Ᏸ8 bo 1 day
