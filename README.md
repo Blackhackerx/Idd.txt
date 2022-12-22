@@ -1,4 +1,5 @@
 8# Idd.txt
+1Ᏸ0Ᏸ2Ᏸ7Ᏸ1ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ7Ᏸ1 @B_1_B2  hata 1/22
 1b1b6b9b5bub0b_bab1b6b9b5 ahmad nerwa hata 20e yak
 1b0b3b0b5bub0b_bab3b0b5  ide xom
 1Ᏸ0Ᏸ2Ᏸ4Ᏸ6ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ4Ᏸ6  maro.admin
