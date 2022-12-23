@@ -1,4 +1,5 @@
 8# Idd.txt
+1Ᏸ0Ᏸ1Ᏸ5Ᏸ9ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ5Ᏸ9  bad boy hata 1/23
 1Ᏸ0Ᏸ2Ᏸ6Ᏸ4ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ6Ᏸ4 ide xom
 1Ᏸ0Ᏸ2Ᏸ7Ᏸ1ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ7Ᏸ1 @B_1_B2  hata 1/22
 1b1b6b9b5bub0b_bab1b6b9b5 ahmad nerwa hata 20e yak
