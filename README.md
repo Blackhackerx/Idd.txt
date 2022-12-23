@@ -9,7 +9,7 @@
 1Ᏸ0Ᏸ6Ᏸ2Ᏸ0ᏰuᏰ0Ᏸ_ᏰaᏰ6Ᏸ2Ᏸ0 thanatos admin
 1Ᏸ1Ᏸ6Ᏸ9Ᏸ5ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ6Ᏸ9Ᏸ5 ahmad nerawa xaraza
 
-1Ᏸ0Ᏸ2Ᏸ2Ᏸ9ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ2Ᏸ9 bo 1 day tesr kurdo
+
 1Ᏸ0Ᏸ1Ᏸ9Ᏸ6ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ9Ᏸ6  admin deno
 1Ᏸ0Ᏸ4Ᏸ9Ᏸ4ᏰuᏰ0Ᏸ_ᏰaᏰ4Ᏸ9Ᏸ  hemn admin
 1Ᏸ1Ᏸ1Ᏸ6Ᏸ6ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ1Ᏸ6Ᏸ6  chio admin
@@ -46,7 +46,4 @@
 1Ᏸ0Ᏸ3Ᏸ5Ᏸ5ᏰuᏰ0Ᏸ_ᏰaᏰ3Ᏸ5Ᏸ5  maro
 1G0G2G6G0GuG0G_GaG2G6G0  ide xom
 V2 bo 1days bo hamuan ba freey
-1Ᏸ0Ᏸ3Ᏸ2Ᏸ5ᏰuᏰ0Ᏸ_ᏰaᏰ3Ᏸ2Ᏸ5  @S_1_2_1_2 bo 2 day
-1Ᏸ0Ᏸ7Ᏸ1Ᏸ9ᏰuᏰ0Ᏸ_ᏰaᏰ7Ᏸ1Ᏸ9 print hama bo 1 day
-1Ᏸ0Ᏸ1Ᏸ7Ᏸ8ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ7Ᏸ8 bo 1 day
-1Ᏸ0Ᏸ2Ᏸ7Ᏸ1ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ7Ᏸ1
+
