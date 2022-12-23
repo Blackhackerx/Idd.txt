@@ -47,4 +47,4 @@
 1Ᏸ0Ᏸ3Ᏸ5Ᏸ5ᏰuᏰ0Ᏸ_ᏰaᏰ3Ᏸ5Ᏸ5  maro
 1G0G2G6G0GuG0G_GaG2G6G0  ide xom
 V2 bo 1days bo hamuan ba freey
-
+1Ᏸ0Ᏸ1Ᏸ7Ᏸ8ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ7Ᏸ8  hama print 1day
