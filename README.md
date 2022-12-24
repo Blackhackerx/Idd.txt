@@ -56,5 +56,7 @@
 1|0|2|6|0|u|0|_|a|2|6|0   ide xom
 1Ᏸ0Ᏸ3Ᏸ5Ᏸ5ᏰuᏰ0Ᏸ_ᏰaᏰ3Ᏸ5Ᏸ5  maro
 1G0G2G6G0GuG0G_GaG2G6G0  ide xom
+1404244494u404_4a424449 black arabaka v4 hata 10/1
 V2 bo 1days bo hamuan ba freey
-1Ᏸ0Ᏸ1Ᏸ7Ᏸ8ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ7Ᏸ8  hama print 1day
+
+1404646494u404_4a464649 bo 1 day
