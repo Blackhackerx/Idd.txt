@@ -16,7 +16,7 @@
 1Ᏸ0Ᏸ2Ᏸ2Ᏸ9ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ2Ᏸ9  kurdo bo 2 day
 1Ᏸ0Ᏸ1Ᏸ5Ᏸ9ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ5Ᏸ9  bad boy hata 1/23
 1Ᏸ0Ᏸ2Ᏸ6Ᏸ4ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ6Ᏸ4 ide xom
-1Ᏸ0Ᏸ2Ᏸ7Ᏸ1ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ7Ᏸ1 @B_1_B2  hata 1/22
+1Ᏸ0Ᏸ2Ᏸ7Ᏸ1ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ7Ᏸ1 1V50V52V57V51V5uV50V5_V5aV52V57V51@B_1_B2  hata 1/22
 1b1b6b9b5bub0b_bab1b6b9b5 ahmad nerwa hata 20e yak
 1b0b3b0b5bub0b_bab3b0b5  ide xom
 1Ᏸ0Ᏸ2Ᏸ4Ᏸ6ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ4Ᏸ6  maro.admin
