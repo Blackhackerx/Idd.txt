@@ -105,3 +105,6 @@ V2 bo 1days bo hamuan ba freey
 1b0b5b1b6bub0b_bab5b1b6
 1b0b2b4b7bub0b_bab2b4b7
 1V50V56V56V59V5uV50V5_V5aV56V56V59
+1b0b0b4b5bub0b_bab4b5
+1b0b6b9b1bub0b_bab6b9b1
+1b0b2b3b3bub0b_bab2b3b3
