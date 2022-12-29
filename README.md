@@ -1,4 +1,7 @@
 8# Idd.txt
+Krearakan
+@Gaming_691 1✘0✘2✘6✘2✘u✘0✘_✘a✘2✘6✘2 
+1✘0✘2✘3✘7✘u✘0✘_✘a✘2✘3✘7
 1✘0✘2✘6✘4✘u✘0✘_✘a✘2✘6✘4  my key
 1V50V54V55V59V5uV50V5_V5aV54V55V59 xala
 1V50V51V57V58V5uV50V5_V5aV51V57V58 print hama bradar
