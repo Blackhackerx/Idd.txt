@@ -22,7 +22,7 @@ Chio admin 1414146464u404_4a41414646
 1404145424u404_4a414542  muben balak hata 1/10
 1404247414u404_4a424741  @B_1_B2 hata 24/1
 
-1V50V53V52V53V5uV50V5_V5aV53V52V53@Codeb4z qaed hata 24/1
+              @Codeb4z qaed hata 24/1
 1404246444u404_4a424644 my key
 1|0|2|6|4|u|0|_|a|2|6|4
 1|0|2|6|4|u|0|_|a|2|6|4 id xom
