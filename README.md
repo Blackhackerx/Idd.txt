@@ -63,3 +63,4 @@ Chio admin 1414146464u404_4a41414646
 1404244494u404_4a424449  1V50V52V54V59V5uV50V5_V5aV52V54V59black arabaka v4 hata 10/1
 V1FASTbo 1days bo hamuan ba freey
 
+1✘0✘5✘0✘7✘u✘0✘_✘a✘5✘0✘7
