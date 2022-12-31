@@ -62,6 +62,4 @@ Chio admin 1414146464u404_4a41414646
 1G0G2G6G0GuG0G_GaG2G6G0  ide xom
 1404244494u404_4a424449  1V50V52V54V59V5uV50V5_V5aV52V54V59black arabaka v4 hata 10/1
 V1FASTbo 1days bo hamuan ba freey
-1✘0✘3✘4✘6✘u✘0✘_✘a✘3✘4✘6 shera admin
-1✘0✘2✘3✘3✘u✘0✘_✘a✘2✘3✘3
-1✘0✘2✘5✘5✘u✘0✘_✘a✘2✘5✘5
+
