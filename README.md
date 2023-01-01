@@ -75,6 +75,3 @@ Admin chio 1Ᏸ1Ᏸ2Ᏸ4Ᏸ8ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ2Ᏸ4Ᏸ8
 1|0|2|6|0|u|0|_|a|2|6|0   ide xom
 1G0G2G6G0GuG0G_GaG2G6G0  ide xom
 1404244494u404_4a424449  1V50V52V54V59V5uV50V5_V5aV52V54V59black arabaka v4 hata 10/1
-Actice 1days bo hamuan ba freey
-
-
