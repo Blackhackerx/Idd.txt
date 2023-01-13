@@ -42,7 +42,7 @@ Far hang ali hata 27/1 1V50V53V53V50V5uV50V5_V5aV53V53V50
 1V50V54V52V51V5uV50V5_V5aV54V52V51 admin deno
 1V50V54V52V53V5uV50V5_V5aV54V52V53 @itz_sakranm  1mang hata  25/1
 1V50V51V55V52V5uV50V5_V5aV51V55V52 mubenbalak
-                      @AYMAN_BLACK  bo 10 rozh
+           
 1V51V56V59V55V5uV50V5_V5aV51V56V59V55 ahmad nerwa
 1V51V51V56V56V5uV50V5_V5aV51V51V56V56 chio admin
 1414146464u404_4a41414646  chio admin
@@ -53,7 +53,6 @@ Far hang ali hata 27/1 1V50V53V53V50V5uV50V5_V5aV53V53V50
 1404149404u404_4a414940 bad boy
 Chio admin 1414146464u404_4a41414646
 1V50V52V56V54V5uV50V5_V5aV52V56V54 ide xom v5
-1404145424u404_4a414542  muben balak hata 1/10
 1404247414u404_4a424741  @B_1_B2 hata 24/1
 
               @Codeb4z qaed hata 24/1
@@ -74,18 +73,12 @@ Admin chio 1Ᏸ1Ᏸ2Ᏸ4Ᏸ8ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ2Ᏸ4Ᏸ8
 1G0G3G0G5GuG0G_GaG3G0G5  xom
 1Ᏸ0Ᏸ3Ᏸ0Ᏸ5ᏰuᏰ0Ᏸ_ᏰaᏰ3Ᏸ0Ᏸ5 id xom
 1Ɓ0Ɓ3Ɓ0Ɓ5ƁuƁ0Ɓ_ƁaƁ3Ɓ0Ɓ5 id xom
-1Ɓ0Ɓ2Ɓ9Ɓ0ƁuƁ0Ɓ_ƁaƁ2Ɓ9Ɓ0  bo 10/1 dear kreuyate
-1Ɓ0Ɓ1Ɓ5Ɓ2ƁuƁ0Ɓ_ƁaƁ1Ɓ5Ɓ2 
-1Ᏸ0Ᏸ2Ᏸ9Ᏸ0ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ9Ᏸ0 hata 1/10 krewyate
 1Ɓ0Ɓ2Ɓ6Ɓ0ƁuƁ0Ɓ_ƁaƁ2Ɓ6Ɓ0  ide xom v2
 1ᗽ0ᗽ2ᗽ6ᗽ0ᗽuᗽ0ᗽ_ᗽaᗽ2ᗽ6ᗽ0  ide xom v2
 1V30V32V36V30V3uV30V3_V3aV32V36V30  Ide xom v3
-1|0|2|9|0|u|0|_|a|2|9|0 hata 10/1 30 rozh
 1Ᏸ0Ᏸ2Ᏸ6Ᏸ0ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ6Ᏸ0   id xom
 1X0X2X6X0XuX0X_XaX2X6X0     ide xom
 1B0B2B6B0BuB0B_BaB2B6B0    my id 
 1|0|2|6|0|u|0|_|a|2|6|0   ide xom
 1G0G2G6G0GuG0G_GaG2G6G0  ide xom
-1404244494u404_4a424449  1V50V52V54V59V5uV50V5_V5aV52V54V59black arabaka v4 hata 10/1
-1𝗩𝗫10𝗩𝗫13𝗩𝗫12𝗩𝗫14𝗩𝗫1u𝗩𝗫10𝗩𝗫1_𝗩𝗫1a𝗩𝗫13𝗩𝗫12𝗩𝗫14 dear  ta 20/1
-1𝗩𝗫10𝗩𝗫15𝗩𝗫10𝗩𝗫17𝗩𝗫1u𝗩𝗫10𝗩𝗫1_𝗩𝗫1a𝗩𝗫15𝗩𝗫10𝗩𝗫17 bo 1 day
+1𝗩𝗫10𝗩𝗫13𝗩𝗫14𝗩𝗫17𝗩𝗫1u𝗩𝗫10𝗩𝗫1_𝗩𝗫1a𝗩𝗫13𝗩𝗫14𝗩𝗫17 dear  ta 20/1
