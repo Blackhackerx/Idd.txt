@@ -60,10 +60,9 @@ Far hang ali hata 27/1 1V50V53V53V50V5uV50V5_V5aV53V53V50
 1|0|2|6|4|u|0|_|a|2|6|4 id xom
 1Ɓ0Ɓ2Ɓ6Ɓ4ƁuƁ0Ɓ_ƁaƁ2Ɓ6Ɓ4  id xom
 Admin chio 1Ᏸ1Ᏸ2Ᏸ4Ᏸ8ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ2Ᏸ4Ᏸ8
-1Ᏸ0Ᏸ1Ᏸ5Ᏸ9ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ5Ᏸ9  bad boy hata 1/23
+
 1Ᏸ0Ᏸ2Ᏸ6Ᏸ4ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ6Ᏸ4 ide xom
-1Ᏸ0Ᏸ2Ᏸ7Ᏸ1ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ7Ᏸ1 1V50V52V57V51V5uV50V5_V5aV52V57V51@B_1_B2  hata 1/22
-1b1b6b9b5bub0b_bab1b6b9b5 ahmad nerwa hata 20e yak
+1Ᏸ0Ᏸ2Ᏸ7Ᏸ1ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ7Ᏸ1 1
 1b0b3b0b5bub0b_bab3b0b5  ide xom
 1Ᏸ0Ᏸ2Ᏸ4Ᏸ9ᏰuᏰ0Ᏸ_ᏰaᏰ2Ᏸ4Ᏸ9 black arabaka
 1Ᏸ1Ᏸ6Ᏸ9Ᏸ5ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ6Ᏸ9Ᏸ5 ahmad nerawa xarawa
@@ -80,3 +79,4 @@ Admin chio 1Ᏸ1Ᏸ2Ᏸ4Ᏸ8ᏰuᏰ0Ᏸ_ᏰaᏰ1Ᏸ2Ᏸ4Ᏸ8
 1B0B2B6B0BuB0B_BaB2B6B0    my id 
 1|0|2|6|0|u|0|_|a|2|6|0   ide xom
 1G0G2G6G0GuG0G_GaG2G6G0  ide xom
+1✘✘0✘✘7✘✘8✘✘0✘✘u✘✘0✘✘_✘✘a✘✘7✘✘8✘✘0 reza test
