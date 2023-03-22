@@ -1,6 +1,6 @@
 ج8# Idd.txt
 𝐌𝐑_𝐁𝐋𝐀𝐂𝐊:
-
+1MR0MR2MR6MR6MRuMR0MR_MRaMR2MR6MR6    ta 22/4
 1MR0MR3MR3MR5MRuMR0MR_MRaMR3MR3MR5  @sulltane_xam  ta 22/4
 𝐀𝐘𝐌𝐀𝐍 🇮🇶⃤B𝙇𝘼𝘾𝙆:
 1MR0MR1MR6MR2MRuMR0MR_MRaMR1MR6MR2
