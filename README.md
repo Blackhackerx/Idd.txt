@@ -1,4 +1,5 @@
 ج8# Idd.txt
+1Ꮙ0Ꮙ3Ꮙ7Ꮙ5ᏉuᏉ0Ꮙ_ᏉaᏉ3Ꮙ7Ꮙ5 test 1 da7
 1GX0GX2GX4GX7GXuGX0GX_GXaGX2GX4GX7 test 1 day
 1Ᏸ0Ᏸ3Ᏸ4Ᏸ5ᏰuᏰ0Ᏸ_ᏰaᏰ3Ᏸ4Ᏸ5
 1Ꮙ0Ꮙ2Ꮙ2Ꮙ7ᏉuᏉ0Ꮙ_ᏉaᏉ2Ꮙ2Ꮙ7  black friend 
