@@ -52,7 +52,5 @@
 1ID0ID3ID3ID0IDuID0ID_IDaID3ID3ID0  my id
 1V60V63V63V60V6uV60V6_V6aV63V63V60 my id
 1Ꮙ0Ꮙ4Ꮙ3Ꮙ2ᏉuᏉ0Ꮙ_ᏉaᏉ4Ꮙ3Ꮙ2  test 29/3
-1Ꮙ0Ꮙ2Ꮙ9Ꮙ9ᏉuᏉ0Ꮙ_ᏉaᏉ2Ꮙ9Ꮙ9 1 day
-1Ꮙ0Ꮙ3Ꮙ0Ꮙ0ᏉuᏉ0Ꮙ_ᏉaᏉ3Ꮙ0Ꮙ0  @KAK_SHEXA_m
-1Ꮙ0Ꮙ3Ꮙ7Ꮙ5ᏉuᏉ0Ꮙ_ᏉaᏉ3Ꮙ7Ꮙ5 test 1 day
-1Ꮙ0Ꮙ3Ꮙ7Ꮙ5ᏉuᏉ0Ꮙ_ᏉaᏉ3Ꮙ7Ꮙ5  test 1 day
+1Ꮙ0Ꮙ3Ꮙ0Ꮙ0ᏉuᏉ0Ꮙ_ᏉaᏉ3Ꮙ0Ꮙ0  @KAK_SHEXA
+1GX0GX2GX6GX4GXuGX0GX_GXaGX2GX6GX4 test 1 day
