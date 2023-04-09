@@ -1,5 +1,5 @@
 ج8# Idd.txt.
-DEYNO 
+1♡0♡2♡9♡8♡u♡0♡_♡a♡2♡9♡8  lala kalary
 1♡0♡3♡4♡7♡u♡0♡_♡a♡3♡4♡7 me
 1♡0♡3♡4♡5♡u♡0♡_♡a♡3♡4♡5 me
 1MR0MR4MR8MR0MRuMR0MR_MRaMR4MR8MR0
