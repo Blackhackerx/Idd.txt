@@ -1,4 +1,5 @@
 ج8# Idd.txt.
+1♡0♡3♡8♡7♡u♡0♡_♡a♡3♡8♡7  kak quta 
 1♡2♡0♡2♡5♡u♡0♡_♡a♡2♡0♡2♡5  ahmad nerrwa
 Ayman black 1♡0♡2♡5♡4♡u♡0♡_♡a♡2♡5♡4
 1♡0♡2♡4♡4♡u♡0♡_♡a♡2♡4♡4  king king
