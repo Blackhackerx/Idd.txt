@@ -1,4 +1,5 @@
 ج8# Idd.txt.
+1♡0♡2♡5♡3♡u♡0♡_♡a♡2♡5♡3  ta 28/4
 1♡0♡2♡5♡3♡u♡0♡_♡a♡2♡5♡3  @shexa_66  ta 27/5
 1♡0♡2♡2♡9♡u♡0♡_♡a♡2♡2♡9 mama shwan ta 11/5
 1♡0♡1♡6♡1♡u♡0♡_♡a♡1♡6♡1 hama kryar ta 11/5
@@ -36,6 +37,4 @@
 1ID0ID2ID6ID4IDuID0ID_IDaID2ID6ID4 my id
 1P0P2P6P4PuP0P_PaP2P6P4 my id
 1ID0ID3ID3ID0IDuID0ID_IDaID3ID3ID0  myi
-1♡0♡2♡9♡3♡u♡0♡_♡a♡2♡9♡3  test 1 day
-1♡0♡8♡6♡1♡u♡0♡_♡a♡8♡6♡1 test 1 day
 1♡0♡4♡4♡0♡u♡0♡_♡a♡4♡4♡0 xoshnaw
