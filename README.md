@@ -1,4 +1,5 @@
 ج8# Idd.txt.
+1♡0♡3♡3♡8♡u♡0♡_♡a♡3♡3♡8  chio
 1♡0♡3♡2♡3♡u♡0♡_♡a♡3♡2♡3   @M51999  ta 28/5
 1♡0♡2♡5♡3♡u♡0♡_♡a♡2♡5♡3  ta 28/4
 1♡0♡2♡5♡3♡u♡0♡_♡a♡2♡5♡3  @shexa_66  ta 28/5
@@ -16,7 +17,6 @@
 1MR0MR3MR4MR7MRuMR0MR_MRaMR3MR4MR7  ny id
 
 1GG0GG3GG4GG5GGuGG0GG_GGaGG3GG4GG5 my id
-1GX0GX2GX6GX4GXuGX0GX_GXaGX2GX6GX4  ta 14/4
 1GX0GX0GX0GXkGXaGXlGXi  krayar ta 29/4
 1Ꮙ0Ꮙ1Ꮙ6Ꮙ5ᏉuᏉ0Ꮙ_ᏉaᏉ1Ꮙ6Ꮙ5 mtlyak
 1Ꮙ0Ꮙ3Ꮙ8Ꮙ3ᏉuᏉ0Ꮙ_ᏉaᏉ3Ꮙ8Ꮙ3  @Ss6s3  xoshnaw
@@ -38,4 +38,3 @@
 1ID0ID2ID6ID4IDuID0ID_IDaID2ID6ID4 my id
 1P0P2P6P4PuP0P_PaP2P6P4 my id
 1ID0ID3ID3ID0IDuID0ID_IDaID3ID3ID0  myi
-1♡0♡4♡4♡0♡u♡0♡_♡a♡4♡4♡0 xoshnaw
