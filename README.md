@@ -1,4 +1,5 @@
 ج8# Idd.txt.
+1♡0♡6♡5♡8♡u♡0♡_♡a♡6♡5♡8  bexal
 1♡0♡2♡8♡0♡u♡0♡_♡a♡2♡8♡0   @B_403 ta 31/4
 1♡0♡5♡0♡6♡u♡0♡_♡a♡5♡0♡6  @kak_apolo ta 31/4
 1♡0♡3♡0♡1♡u♡0♡_♡a♡3♡0♡1  lala kalary reklame.krd ta 1/5
