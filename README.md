@@ -45,6 +45,3 @@
 1ID0ID2ID6ID4IDuID0ID_IDaID2ID6ID4 my id
 1P0P2P6P4PuP0P_PaP2P6P4 my id
 1ID0ID3ID3ID0IDuID0ID_IDaID3ID3ID0  myi
-1♡0♡4♡8♡8♡u♡0♡_♡a♡4♡8♡8 test ftth 1 day
-1♡0♡3♡2♡9♡u♡0♡_♡a♡3♡2♡9  test korek 1 day
-1♡0♡3♡4♡1♡u♡0♡_♡a♡3♡4♡1 test korek 1 dat
