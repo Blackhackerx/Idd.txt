@@ -6,7 +6,7 @@
 1♡0♡3♡0♡1♡u♡0♡_♡a♡3♡0♡1  lala kalary reklame.krd ta 1/5
 1♡0♡2♡9♡4♡u♡0♡_♡a♡2♡9♡4   CRaazy reklame krd @Ittz_crazy2  1/5
 1♡0♡1♡6♡3♡u♡0♡_♡a♡1♡6♡3   @KAK_BADBOY  ta 31/4
-1♡0♡8♡7♡2♡u♡0♡_♡a♡8♡7♡2   russe friend 
+                              russe friend 
 1♡0♡2♡6♡0♡u♡0♡_♡a♡2♡6♡0  bmw 28/4
 1♡0♡2♡3♡3♡u♡0♡_♡a♡2♡3♡3 king king ta 29/4
 1♡0♡2♡1♡5♡u♡0♡_♡a♡2♡1♡5  ta 28/4
