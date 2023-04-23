@@ -17,7 +17,6 @@
 1♡0♡2♡4♡9♡u♡0♡_♡a♡2♡4♡9 king king  ta 11/5
 1♡0♡3♡7♡7♡u♡0♡_♡a♡3♡7♡7    @Hama7720   kryar ta 4/25
 1♡0♡3♡3♡5♡u♡0♡_♡a♡3♡3♡5  ta 5/1
-1♡0♡2♡9♡8♡u♡0♡_♡a♡2♡9♡8  lala kalary
 1♡0♡3♡4♡7♡u♡0♡_♡a♡3♡4♡7 me
 1♡0♡3♡4♡5♡u♡0♡_♡a♡3♡4♡5 me
 1GX0GX0GX0GXkGXaGXlGXi  krayar ta 29/4
